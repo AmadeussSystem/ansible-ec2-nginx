@@ -12,3 +12,4 @@ This project uses Ansible to:
 - `index.html`: Custom landing page
 - `inventory.ini`: Ansible inventory
 
+ Live Demo: [http://65.2.175.240/](http://65.2.175.240/)
